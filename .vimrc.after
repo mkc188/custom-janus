@@ -1,0 +1,13 @@
+set t_Co=16
+set background=dark
+" let g:solarized_termcolors=256
+" let g:solarized_termtrans=1
+colorscheme solarized
+set lazyredraw
+set title
+set hidden
+set history=500
+set whichwrap=b,s,h,l,<,>,[,]
+set tabstop=4
+set shiftwidth=4
+set softtabstop=4
